@@ -1,0 +1,48 @@
+# Python basics
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Unit test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Project specific
+config.local.py
+secrets.json
+*.pem
+*.key
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Local development
+local_settings.py

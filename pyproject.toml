@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "study-python"
+version = "0.1.0"
+description = "Python study and practice project for learning fundamentals"
+authors = ["Jihoon Lee <jihoon.lee@10bms.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
