@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # This is program saying hello
 print('Hello, World')
 print('What is your name?')
